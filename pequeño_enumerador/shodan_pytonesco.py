@@ -1,7 +1,7 @@
 import shodan 
 import requests
 #api
-apie ="YgTS7cAjLb58KYQ0S43HZ6elNQWpu8Iv"
+apie =""
 
 api = shodan.Shodan(apie)
 
